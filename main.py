@@ -5,7 +5,7 @@ import subprocess as sp
 
 flopCount = 0
 client = discord.Client()
-config_name = "<config_name>"
+config_name = "config.json"
 with open(config_name) as f:
     config = json.load(f)
     token = config["token"]
