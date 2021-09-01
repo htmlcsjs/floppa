@@ -1,0 +1,8 @@
+{
+    "token": "<insert bot token here>",
+    "prefix": "$",
+    "commands": [],
+    "guilds": {
+        "<guild-id>": "<role-id>",
+    }
+}
